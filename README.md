@@ -1,3 +1,24 @@
+1. git clone https://github.com/SleepTheGod/Ss7
+
+2. chmod +x Ss7
+
+3. cd Ss7
+
+4. bash install.sh
+
+5. bash main.sh
+
+6. bash asterisk.sh
+
+7. bash osmocom.sh
+
+8. bash sigtran.sh
+
+9. bash extra.sh
+
+10. You are done if you need any help feel free to contact me this is my only form of contact I do not use twitter people on there are pretending to be me https://www.linkedin.com/in/clumsy/
+
+
 SS7 Attack Framework Setup Script: 
 
 Author Taylor Christian Newsome https://www.linkedin.com/in/clumsy/
