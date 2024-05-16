@@ -4,7 +4,10 @@
 ╚════██║╚════██║   ██╔╝     ██║╚██╗██║██╔══╝     ██║   ██║███╗██║██║   ██║██╔══██╗██╔═██╗ ██║██║╚██╗██║██║   ██║
 ███████║███████║   ██║      ██║ ╚████║███████╗   ██║   ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗██║██║ ╚████║╚██████╔╝
 ╚══════╝╚══════╝   ╚═╝      ╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-NOTE I AM STILL WORKING ON THIS REPO AND FIXING BUGS                                                                                                                
+NOTE I AM STILL WORKING ON THIS REPO AND FIXING BUGS 
+https://salsa.debian.org/debian/libedit
+https://downloads.osmocom.org
+https://gitea.osmocom.org/explore/repos                                                                                                               
 
 1. git clone https://github.com/SleepTheGod/Ss7
 
