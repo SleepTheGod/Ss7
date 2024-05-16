@@ -1,4 +1,6 @@
-SS7 Attack Framework Setup Script:
+SS7 Attack Framework Setup Script: 
+
+Author Taylor Christian Newsome https://www.linkedin.com/in/clumsy/
 
 This script automates the setup of an SS7 attack framework by installing and configuring essential tools and dependencies.
 It installs Wireshark for packet analysis, SCTPScan for SCTP device detection, GNU Radio Companion for signal processing, OpenSS7 for SS7 protocol stack implementation, and Asterisk with SS7 support for VoIP services.
